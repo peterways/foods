@@ -1,0 +1,141 @@
+body{
+	
+	background-image: url(BG\ 9.jpg);
+	background-repeat: none;
+	background-size: cover;
+}
+
+
+
+a{
+	color: #ffffff;
+	font-family: impact;
+	word-spacing:40px;	
+	letter-spacing: 8px;
+	text-decoration: none;
+}
+
+h2{
+    text-align: center;
+}
+#pp1{
+    font-size: 25px;
+    font-family: sans-serif;
+}
+#pp2{
+    text-align:center; 
+    font-size:20px;
+}
+.webpages{
+		font-size: 30px;
+	}
+
+    .img1{
+        margin-top: 20px;
+        display: flex;
+        width: 100%;
+        padding: 5px;
+       
+    }
+    #s2{
+        padding-left: 8px;
+    }
+    #s3{
+        padding-left: 8px;
+    }
+
+     .img2{
+         margin-top: 20px;
+        display: flex;
+        width: 100%;
+        padding: 4px;
+      
+    }
+
+     #s5{
+        padding-left: 8px;
+    }
+    #s6{
+        padding-left: 8px;
+    }
+
+     .img3{
+         margin-top: 20px;
+        display: flex;
+        width: 100%;
+        padding: 4px;
+      
+    }
+
+     #s8{
+        padding-left: 8px;
+    }
+    #s9{
+        padding-left: 8px;
+    }
+    .img4{
+         margin-top: 20px;
+        display: flex;
+        width: 100%;
+        padding: 4px;
+      
+    }
+
+     #s11{
+        padding-left: 8px;
+    }
+    #s12{
+        padding-left: 8px;
+    }
+    .img5{
+         margin-top: 20px;
+        display: flex;
+        width: 100%;
+        padding: 4px;
+      
+    }
+
+     #s14{
+        padding-left: 8px;
+    }
+    #s15{
+        padding-left: 8px;
+    }
+     .img6{
+         margin-top: 20px;
+        display: flex;
+        width: 100%;
+        padding: 4px;
+      
+    }
+
+     #s17{
+        padding-left: 8px;
+    }
+    #s18{
+        padding-left: 8px;
+    }
+     .img7{
+         margin-top: 20px;
+        display: flex;
+        width: 100%;
+        padding: 4px;
+      
+    }
+
+     #s20{
+        padding-left: 8px;
+    }
+    #s21{
+        padding-left: 8px;
+    }
+
+    form{
+        background-color: rgb(6, 99, 153);
+        width: 700px;
+        height: 80px;
+        margin-left: 25%;
+       border-radius: 10px;
+       padding: 10px;
+       
+    }
